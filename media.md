@@ -3,7 +3,7 @@ layout: page
 permalink: /media-appearances/
 ---
 
-# Media Appearances
+## Media Appearances
 
 * I was recently quoted in a [Politico article](https://www.politico.com/news/2024/01/31/artificial-intelligence-new-york-campaigns-00138784#:~:text=As%20AI%2Dgenerated,this%20is%20AI.%E2%80%9D){:target="_blank"} where I weighed in on how deepfake audio could offer plausible deniability to wrongdoers.
 
