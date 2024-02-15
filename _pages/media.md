@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /_pages/media-appearances/
+permalink: /media-appearances/
 ---
 
 ## Media Appearances
